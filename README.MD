@@ -30,7 +30,7 @@ LangGraph = Ajan akışı ve karar orkestrasyonu
 
 Daha detaylı açıklama için: [docs/mcp-vs-langgraph.md](docs/mcp-vs-langgraph.md)
 
-## Architecture
+## Mimari
 
 ![MCP + LangGraph mimarisi](images/generated_image.png)
 
@@ -207,14 +207,6 @@ Istanbul hava durumu nasıl?
 Bu metni analiz et: MCP MCP LangGraph agent agent tool.
 MCP ve LangGraph öğrenmek için 7 günlük plan hazırla.
 ```
-
-## Medium Makalesi
-
-Medium yazısı için ilk taslak: [docs/medium-taslak.md](docs/medium-taslak.md)
-
-Makalenin ana iddiası:
-
-> MCP aracı standartlaştırır; LangGraph ajanın bu aracı ne zaman ve nasıl kullanacağını organize eder.
 
 ## Güvenlik Notları
 
