@@ -30,7 +30,9 @@ LangGraph = Ajan akışı ve karar orkestrasyonu
 
 Daha detaylı açıklama için: [docs/mcp-vs-langgraph.md](docs/mcp-vs-langgraph.md)
 
-## Mimari
+## Architecture
+
+![MCP + LangGraph mimarisi](images/generated_image.png)
 
 ```text
 Kullanıcı
@@ -180,6 +182,8 @@ Kritik ve sık kullanılan kalıplar kuralla desteklenir.
 ├── docs/
 │   ├── mcp-vs-langgraph.md       # Kavramsal ayrım
 │   └── medium-taslak.md          # Türkçe Medium yazısı taslağı
+├── images/
+│   └── generated_image.png       # Mimari diyagram
 ├── requirements.txt
 └── .env.example
 ```
