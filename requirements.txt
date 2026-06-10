@@ -1,0 +1,14 @@
+# MCP server framework
+fastmcp>=2.0
+
+# Data validation and MCP tool schemas
+pydantic
+
+# LangGraph agent orchestration
+langgraph
+
+# HTTP requests for API calls
+requests
+
+# Optional but recommended
+python-dotenv
